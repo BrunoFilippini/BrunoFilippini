@@ -2,9 +2,9 @@
 <div align="center">
 
   <a href="https://github.com/BrunoFilippini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFilippini&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFilippini&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFilippini&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFilippini&theme=apprentice&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFilippini&theme=apprentice&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFilippini&theme=apprentice&hide_border=true"/>
 
   --
   
